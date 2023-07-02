@@ -1,0 +1,10 @@
+{
+	"useColorAsBaseTerrain": "false",
+	"ruleVariants": {
+
+		"Grassland+Grape+Plantation": ["Grassland","Grape+Plantation"],
+		"Plains+Grape+Plantation": ["Plains","Grape+Plantation"]
+
+	}
+
+}
